@@ -9,6 +9,8 @@ the program takes to run in total.
 
 3rd run - Time taken: 5.864538s
 
+Total - 17.700303s
+
 ```
 Thinkpad T490
 CORE i5 8th Gen (i5-8265U)
